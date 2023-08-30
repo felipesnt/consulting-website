@@ -13,4 +13,4 @@ Technologies used:
 <li><a href="https://michalsnik.github.io/aos/" target="_blank">Animate On Scroll Library</a> by Michał Sajnóg</li>
 </ul>
 <br>
-Support provided by <a href="https://github.com/devfraga">Matheus Fraga (via @SujeitoProgramador)</a> (thanks a lot!).
+Support provided by <a href="https://github.com/devfraga">Matheus Fraga (via @SujeitoProgramador)</a>. Thanks a lot! :)
