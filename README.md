@@ -13,4 +13,7 @@ Technologies used:
 <li><a href="https://michalsnik.github.io/aos/" target="_blank">Animate On Scroll Library</a> by Michał Sajnóg</li>
 </ul>
 <br>
+
+Image credits and visual elements to <a href="https://www.pexels.com/" target="_blank">Pexels</a> and <a href="https://www.canva.com/" target="_blank">Canva Image Bank</a>.
+Icons by <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>.
 Support provided by <a href="https://github.com/devfraga">Matheus Fraga (via @SujeitoProgramador)</a>. Thanks a lot! :)
