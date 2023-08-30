@@ -9,7 +9,7 @@ Technologies used:
 <li>HTML</li>
 <li>CSS</li>
 <li>SASS</li>
-<li>JavaScript</ul>
+<li>JavaScript</li>
 <li><a href="https://michalsnik.github.io/aos/" target="_blank">Animate On Scroll Librabry</a> by <a href="https://github.com/michalsnik" target="_blank">Michael Sajnog</a></li>
 </ul><br>
 
