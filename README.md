@@ -5,12 +5,12 @@ You can check the deployment of this project here: <a href="https://consulting-w
 
 Technologies used:
 
-<li>
-<ul>HTML</ul>
-<ul>CSS</ul>
-<ul>SASS</ul>
-<ul>JavaScript</ul>
-<ul><a href="https://michalsnik.github.io/aos/" target="_blank">Animate On Scroll Librabry</a> by <a href="https://github.com/michalsnik" target="_blank">Michael Sajnog</a></ul>
-</li>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>SASS</li>
+<li>JavaScript</ul>
+<li><a href="https://michalsnik.github.io/aos/" target="_blank">Animate On Scroll Librabry</a> by <a href="https://github.com/michalsnik" target="_blank">Michael Sajnog</a></li>
+</ul>
 
 Support provided by <a href="https://github.com/devfraga">Matheus Fraga (via @SujeitoProgramador)</a> (thanks a lot!).
