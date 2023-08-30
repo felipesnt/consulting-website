@@ -91,7 +91,7 @@ i {
   content: "";
   display: block;
   position: absolute;
-  background-image: linear-gradient(to top, rgb(31, 5, 5), rgba(0, 0, 0, 0), rgb(31, 5, 5)), url(../consulting/assets/bg.png);
+  background-image: linear-gradient(to top, rgb(31, 5, 5), rgba(0, 0, 0, 0), rgb(31, 5, 5)), url(../assets/bg.png);
   left: 0;
   top: 0;
   width: 100%;
