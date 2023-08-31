@@ -1,5 +1,5 @@
 # consulting-website
-A landing page designed to get customers for a consulting company.
+A responsive landing page designed to get customers for a consulting company.
 
 You can check the deployment of this project here: <a href="https://consulting-website-sigma.vercel.app/" target="_blank">click to access</a>.
 
