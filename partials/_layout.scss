@@ -280,8 +280,8 @@
     }
 }
 
-@media screen and (max-width: 480px){
-    .copyright p {
+@media screen and (max-width: 375px) {
+    .copyright {
         text-align: center;
     }
 }
