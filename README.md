@@ -15,5 +15,5 @@ Technologies used:
 <br>
 
 Icons by <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>.<br>
-Image credits and visual elements to <a href="https://www.pexels.com/" target="_blank">Pexels</a> and <a href="https://www.canva.com/" target="_blank">Canva Image Bank</a>.<br>
+Image credits and visual elements by <a href="https://www.pexels.com/" target="_blank">Pexels</a> and <a href="https://www.canva.com/" target="_blank">Canva Image Bank</a>.<br>
 Support provided by <a href="https://github.com/devfraga">Matheus Fraga (via @SujeitoProgramador)</a>. Thanks a lot! :)

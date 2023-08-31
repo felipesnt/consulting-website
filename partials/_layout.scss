@@ -223,7 +223,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    text-align: center;
     padding: 54px 0;
     gap: 24px;
     color: $white-normal;
@@ -281,6 +280,8 @@
     }
 }
 
-.copyright{
-    text-align: center;
+@media screen and (max-width: 480px){
+    .copyright p {
+        text-align: center;
+    }
 }
