@@ -8,7 +8,7 @@ Technologies used:
 <ul>
 <li>HTML</li>
 <li>CSS</li>
-<li>SASS</li>
+<li>SCSS</li>
 <li>JavaScript</li>
 <li><a href="https://michalsnik.github.io/aos/" target="_blank">Animate On Scroll Library</a> by Michał Sajnóg</li>
 </ul>
